@@ -1,5 +1,11 @@
 This was created in Year 1, Semester 1, of my university's CM1005 Introduction to Programming 1 Final exam.
 
+# Table of Contents
+
+-   [Getting Started](#getting-started)
+-   [Adjust Settings](#adjust-settings)
+-   [Preview](#preview)
+
 # Getting Started
 
 In VS Code, use [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to run the `.html` file.
